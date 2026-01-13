@@ -98,7 +98,7 @@ export default function Navbar() {
             </li>
             <li>
               <Link
-                href="/celana"
+                href="/jamtangan"
                 className="hover:text-red-600 hover:border-b-2 border-red-600 pb-1 transition-all"
               >
                 JAM TANGAN
