@@ -46,8 +46,7 @@ export default async function Home() {
             </div>
           </Link>
 
-          <Link href="/celana" className="group block"> 
-            {/* Link ini mengarah ke Jam Tangan kalau kamu pakai folder celana tadi */}
+          <Link href="/jamtangan" className="group block"> 
             <div className="bg-orange-100 p-6 rounded-lg text-center hover:bg-orange-200 transition cursor-pointer h-full border border-orange-200">
               <span className="text-4xl">⌚</span>
               <h3 className="text-xl font-bold mt-2 text-orange-800">Jam Tangan</h3>
